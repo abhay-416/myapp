@@ -1,1 +1,2 @@
-This is sample github application to lear github
+MyApp
+This is sample github application to learn github
